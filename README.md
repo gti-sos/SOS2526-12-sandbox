@@ -1,10 +1,13 @@
 # SOS2526-12-sandbox
 
-LPI internacional: 
-https://lpi.worldbank.org/international/global
+-Tasa de nacimiento y muerte: 
 
-Exportaciones de bienes y servicios internacionales (PIB):
-https://data.worldbank.org/indicator/NE.EXP.GNFS.ZS
+https://www.kaggle.com/datasets/census/international-data?resource=download&select=birth_death_growth_rates.csv
 
-Importaciones de bienes y servicios internacionesl:
-https://data.worldbank.org/indicator/NE.IMP.GNFS.ZS
+-Tasa de fertilidad especifica
+
+https://www.kaggle.com/datasets/census/international-data?resource=download&select=age_specific_fertility_rates.csv
+
+Población media por edad y sexo:
+
+https://www.kaggle.com/datasets/census/international-data?resource=download&select=midyear_population_age_sex.csv
