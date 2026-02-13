@@ -4,6 +4,7 @@ Welcome to the repository for the **SOS2526-12** group.
 
 ## 👥 Team
 * **Javier** - [@javier12012001](https://github.com/javier12012001)
+* **Lucca** - [@Lucca-Pereira-2](https://github.com/Lucca-Pereira-2)
 
 ## 📝 Project Description
 Our project analyzes the correlation between population growth and social structure. We aim to understand global demographic trends by utilizing international data sources focused on:
