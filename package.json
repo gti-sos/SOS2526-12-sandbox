@@ -4,7 +4,7 @@
   "description": "Welcome to the repository for the **SOS2526-12** group.",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "node Clase 6-3/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -14,7 +14,7 @@
   "keywords": [],
   "author": "Lucca",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/gti-sos/SOS2526-12-sandbox/issues"
   },
@@ -22,6 +22,7 @@
   "dependencies": {
     "body-parser": "^2.2.2",
     "cool-ascii-faces": "^1.3.4",
-    "express": "^5.2.1"
+    "express": "^5.2.1",
+    "nedb": "^1.8.0"
   }
 }
